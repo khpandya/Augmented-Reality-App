@@ -1,4 +1,6 @@
 # Augmented-Reality-App
-Augmented Reality app for a magic trick made with Unity and Vuforia.
+Augmented Reality app for a magic trick made with Unity 2019.3.0 and Vuforia + Android SDK version 30.
 
-Find in the Google Play Store by searching for AR Magic Trick.
+This is a fun little app that turns a queen of spades into a king of diamonds! 
+
+Coming to Google Play Store soon.
