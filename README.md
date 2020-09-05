@@ -3,6 +3,8 @@ Video demo - https://www.linkedin.com/posts/khpandya_augmentedreality-ar-app-act
 
 Augmented Reality app for a magic trick made with Unity 2019.3.0 and Vuforia + Android SDK version 30.
 
+Unity project files - https://drive.google.com/drive/folders/1Vh5NxgEnwJo0P9rThSBlSqBf-jILPf9p?usp=sharing
+
 This is a fun little app that turns a queen of spades into a king of diamonds! 
 
 
