@@ -8,6 +8,3 @@ Augmented Reality app for a magic trick made with Unity 2019.3.0 and Vuforia + A
 Unity project files - https://drive.google.com/drive/folders/1Vh5NxgEnwJo0P9rThSBlSqBf-jILPf9p?usp=sharing
 
 This is a fun little app that turns a queen of spades into a king of diamonds! 
-
-
-Coming to Google Play Store soon.
